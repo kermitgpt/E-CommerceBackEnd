@@ -31,7 +31,7 @@ Open whatever API client you use to use routes listed within the routes folder t
 
 ## Media
 
-[Walkthrough Video Link](https://github.com/mattgrogandev/E-CommerceBackEnd)
+[Walkthrough Video Link](https://watch.screencastify.com/v/kfTqQfkmNC5epOSQErxx)
 
 ![test-website-screenshot](./images/1.jpg)
 
